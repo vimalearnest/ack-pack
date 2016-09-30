@@ -1,1 +1,1 @@
-(require 'ack-mode)
+(require 'ack)
